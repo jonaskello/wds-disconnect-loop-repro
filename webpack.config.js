@@ -27,10 +27,6 @@ module.exports = {
   },
   devServer: {
     https: true,
-    port: 8080,
-    host: "localhost",
-    stats: "errors-only",
-    inline: true,
     historyApiFallback: true
   }
 };
