@@ -5,6 +5,8 @@ yarn install
 yarn start
 ```
 
+May have to manually reload a couple of times to trigger the issue.
+
 # What happens:
 
 The page loads and then there is a console message:
